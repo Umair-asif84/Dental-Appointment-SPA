@@ -1,0 +1,24 @@
+.galleryImage{
+    padding: 0px;
+    width: 95%!important;
+    margin: 20px auto;
+
+}
+@media (max-width: 960px)
+{
+.css-jyw7yc-MuiAvatar-root {
+    max-width: 100% !important;
+    max-height: auto;
+}
+}
+.slick-dots li.slick-active button:before{
+    color:#F05F77 !important;
+    opacity: .8 !important;
+    font-size: 10px !important;
+
+    
+}
+.slick-dots li button:before{
+    font-size: 10px !important;
+    color:#D9D9D9 !important;
+}

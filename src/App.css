@@ -1,0 +1,27 @@
+/* font for 400 fontwieght */
+@font-face {
+    font-family: Regular;
+    src: url(./font/Jost-Regular.ttf);
+}
+/* font for 500 fontwieght */
+@font-face {
+    font-family: Medium;
+    src: url(./font/Jost-Medium.ttf);
+}
+/* font for 600 fontwieght */
+@font-face {
+    font-family: SemiBold;
+    src: url(./font/Jost-SemiBold.ttf);
+
+}
+/* font for 700 fontwieght */
+@font-face {
+    font-family: Bold;
+    src: url(./font//Jost-Bold.ttf);
+}
+/* font for 800 fontwieght */
+@font-face {
+    font-family: ExtraBold;
+    src: url(./font/Jost-ExtraBold.ttf);
+}
+
